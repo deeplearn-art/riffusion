@@ -5,7 +5,7 @@ diffusers
 flask
 flask_cors
 numpy
-pillow
+pillow==9.1.0
 plotly
 pydub
 scipy
